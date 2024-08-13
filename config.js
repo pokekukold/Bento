@@ -54,11 +54,11 @@ const CONFIG = {
 		{
 			id: '1',
 			name: 'Twitch',
-			icon: 'github',
-			link: 'https://www.twitch.tv//',
+			icon: 'twitch',
+			link: 'https://www.twitch.tv/',
 		},
 		{
-			id: '2',
+			id: '4',
 			name: 'Mail',
 			icon: 'mail',
 			link: 'https://mail.google.com/mail/u/0/#all',
@@ -66,14 +66,14 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'ChatGPT',
-			icon: 'trello',
+			icon: 'bot',
 			link: 'https://chatgpt.com/',
 		},
 		{
-			id: '4',
-			name: 'Sheets',
-			icon: 'calendar',
-			link: 'https://docs.google.com/spreadsheets/u/0/',
+			id: '2',
+			name: 'Monkeytype',
+			icon: 'keyboard',
+			link: 'https://monkeytype.com/',
 		},
 		{
 			id: '5',
@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'AnimeLIB',
+					link: 'https://anilib.me/ru',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Mult',
+					link: 'https://adultmult.club/',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'IMDb',
+					link: 'https://online.ztflix.zone/',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'MyAnimeList',
+					link: 'https://myanimelist.net/',
 				},
 			],
 		},
@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'MangaLIB',
-					link: 'https://test-front.mangalib.me/ru',
+					name: 'RewritePal',
+					link: 'https://www.rewritepal.com/',
 				},
 				{
-					name: 'AdultMult',
-					link: 'https://adultmult.club/',
+					name: 'Sheets',
+					link: 'https://docs.google.com/spreadsheets/u/0/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Kaggle',
+					link: 'https://www.kaggle.com/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'PDF',
+					link: 'https://www.ilovepdf.com/',
 				},
 			],
 		},
